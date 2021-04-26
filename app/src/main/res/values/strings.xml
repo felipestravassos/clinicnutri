@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Orion Clinic Nutri</string>
+    <string name="enter">Entrar</string>
+    <string name="presentation_login">Olá! Prazer em ter você aqui</string>
+    <string name="e_mail">E-mail</string>
+    <string name="password">Senha</string>
+    <string name="forgot_password">Esqueceu a senha?</string>
+    <string name="create_account">Criar conta</string>
+    <string name="err_validate_email">Verifique o e-mail e tente novamente</string>
+    <string name="err_validate_password">Verifique a senha digitada e tente novamente</string>
+
+    <string name="create_account_welcome">Que bom que você deseja fazer parte da nossa plataforma!</string>
+    <string name="create_account_we_need_some_information">Vamos precisar de algumas informações para te conhecer melhor.</string>
+    <string name="create_account_whats_your_name">Qual seu nome?</string>
+    <string name="create_account_whats_is_your_gender">Qual seu gênero?</string>
+    <string name="create_account_female">Feminino</string>
+    <string name="create_account_male">Masculino</string>
+    <string name="create_account_other">Outro</string>
+    <string name="create_account_we_need_your_email_and_phone">Agora vamos precisar saber seu e-mail e telefone para contato.</string>
+    <string name="create_account_email">E-mail</string>
+    <string name="create_account_phone">Telefone</string>
+    <string name="create_account_address">Conta pra gente aonde você atende.</string>
+    <string name="create_account_state">Estado</string>
+    <string name="create_account_city">Cidade</string>
+    <string name="create_account_address_information">Essa informação é importante para que possamos saber onde estamos chegando e como orientar nossas ações para ajudar o dia a dia de mais nutricionistas</string>
+
+    <string name="next">Próximo</string>
+    <string name="back">Voltar</string>
+
+    <string name="create_account_err_name">Adicione um nome válido</string>
+    <string name="create_account_err_gender">Selecione um dos gêneros disponíveis</string>
+    <string name="create_account_err_email">Adicione um e-mail válido</string>
+    <string name="create_account_err_phone">Adicione um número de telefone válido</string>
+
+
+</resources>
